@@ -171,4 +171,4 @@ ex) 전체 공급 40 호수
 
 ## Reference
 
-* [2020 행복주택 신청대상, 입주조건, 입주자격, 당첨전략 공개! 행복주택의 평수별 소득기준 등 철저하게 확인하세요! ](https://www.youtube.com/watch?v=400kicS4iKk&t=1s)
+* [2020 행복주택 신청대상, 입주조건, 입주자격, 당첨전략 공개! 행복주택의 평수별 소득기준 등 철저하게 확인하세요!](https://www.youtube.com/watch?v=400kicS4iKk&t=1s)
