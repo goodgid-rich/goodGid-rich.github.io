@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " 청약 통장 알아보기 "
-categories: Rich
+categories: 주택(House)
 author: goodGid
 ---
 * content
@@ -22,7 +22,7 @@ author: goodGid
 
 ### 공공분양
 
-![](/assets/img/rich/Housing-Passbook_1.png)
+![](/assets/img/house/Housing-Passbook_1.png)
 
 * 정부
 
@@ -52,7 +52,7 @@ author: goodGid
 
 ### 민영분양
 
-![](/assets/img/rich/Housing-Passbook_2.png)
+![](/assets/img/house/Housing-Passbook_2.png)
 
 * 사기업
 

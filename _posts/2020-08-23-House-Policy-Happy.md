@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " 2020 행복 주택 알아보기 "
-categories: Rich
+categories: 주택(House)
 author: goodGid
 ---
 * content
@@ -165,7 +165,7 @@ ex) 전체 공급 40 호수
 
 * 순위 > 배점 > 추첨
 
-![](/assets/img/rich/House-Policy-Happy_1.png)
+![](/assets/img/house/House-Policy-Happy_1.png)
 
 ---
 

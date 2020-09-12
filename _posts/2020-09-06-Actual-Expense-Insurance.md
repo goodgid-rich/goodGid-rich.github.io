@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " 실비 보험 알아보기 "
-categories: Rich
+categories: 보험(Insurance)
 author: goodGid
 ---
 * content
@@ -21,7 +21,7 @@ author: goodGid
 
 ## 실비 보험
 
-![](/assets/img/rich/Actual-Expense-Insurance_1.png)
+![](/assets/img/insurance/Actual-Expense-Insurance_1.png)
 
 ### 보장
 
