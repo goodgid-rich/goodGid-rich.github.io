@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " 전세 계약 만료 시 연장과 관련된 이야기 : 암묵적 vs 비 암묵적 "
-categories: 주택(House)
+categories: House
 author: goodGid
 ---
 * content

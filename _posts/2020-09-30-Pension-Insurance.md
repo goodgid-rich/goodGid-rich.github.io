@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " 연금 보험 알아보기 "
-categories: 보험(Insurance)
+categories: Insurance
 author: goodGid
 ---
 * content

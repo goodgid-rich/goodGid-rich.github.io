@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " 부동산 정책 알아보기 "
-categories: 주택(House)
+categories: House
 author: goodGid
 ---
 * content

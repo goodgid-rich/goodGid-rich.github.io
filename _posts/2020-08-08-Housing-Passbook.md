@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " 청약 통장 알아보기 "
-categories: 주택(House)
+categories: House
 author: goodGid
 ---
 * content

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " 2020 행복 주택 알아보기 "
-categories: 주택(House)
+categories: House
 author: goodGid
 ---
 * content
