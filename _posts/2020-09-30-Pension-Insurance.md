@@ -94,8 +94,48 @@ author: goodGid
 
 ---
 
+## 추가 납입
+
+> 기본 보험료
+
+![](/assets/img/insurance/Pension-Insurance_1.png)
+
+> 기본 보험료 + 추가 납입
+
+![](/assets/img/insurance/Pension-Insurance_2.png)
+
+* ref : [연금보험 절대 가입하지 마라!! 보험 설계사가 절대 안 알려 주지 않는 진실 추가납이 답이다](https://www.youtube.com/watch?v=vR_T5hEZwM8)
+
+
+---
+
+> 원금 도달 시기
+
+* 최저 보증으로 봐야한다.
+
+  금리는 앞으로 계속 낮아진다.
+
+![](/assets/img/insurance/Pension-Insurance_3.png)
+
+* 13년이 걸려야지 원금이 된다.
+
+![](/assets/img/insurance/Pension-Insurance_4.png)
+
+* 7년이면 원금 도달이 된다.
+
+* ref : * [보험설계사가 알려주지않는 진실- 연금보험 절대 가입하지 마라!](https://www.youtube.com/watch?v=hzh_0UXfU60)
+
+
+
+
+---
+
 ## Reference
 
 * [5%최저보증연금 200% 활용방법](https://www.youtube.com/watch?v=Njv5tCRNKfc)
 
 * [연금보험 완벽한 비과세로 추가납입하는 방법공개!(모르면 세금폭탄ㅜㅜ)★예진아빠의 착한보험★](https://www.youtube.com/watch?v=r626IkJxaPM)
+
+* [연금보험 절대 가입하지 마라!! 보험 설계사가 절대 안 알려 주지 않는 진실 추가납이 답이다](https://www.youtube.com/watch?v=vR_T5hEZwM8)
+
+* [보험설계사가 알려주지않는 진실- 연금보험 절대 가입하지 마라!](https://www.youtube.com/watch?v=hzh_0UXfU60)
