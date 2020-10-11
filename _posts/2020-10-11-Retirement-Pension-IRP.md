@@ -9,7 +9,7 @@ author: goodGid
 
 ## IRP
 
-* 개인형 퇴직 연금 (Individual Retirement Pension)
+> 개인형 퇴직 연금 (Individual Retirement Pension)
 
 * 연금 저축과 같은 혜택을 가진 퇴직 연금의 한가지이다.
 
@@ -17,9 +17,9 @@ author: goodGid
 
 > 퇴직 연금 종류
 
-1. DC
+1. [DB]({{site.url}}/Retirement-Pension-DB-and-DC/#db)
 
-2. DB
+1. [DC]({{site.url}}/Retirement-Pension-DB-and-DC/#dc)
 
 3. IRP
 
