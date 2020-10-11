@@ -119,5 +119,5 @@ author: goodGid
 
 * [[상품지식] 퇴직연금 공부합시다! 의무화 된대요 (DB, DC, IRP)_1부](https://www.youtube.com/watch?v=vEiYdLFc5R8)
 
-* [[상품지식] 퇴직연금 공부합시다! 의무화 된대요 (DB, DC, IRP)_2부](https://www.youtube.com/watch?v=-T9ohGnHLt8)
+* [[상품지식] 퇴직연금 공부합시다! 한계점/종류 (DB,DC,IRP)_2부](https://www.youtube.com/watch?v=-T9ohGnHLt8)
 
