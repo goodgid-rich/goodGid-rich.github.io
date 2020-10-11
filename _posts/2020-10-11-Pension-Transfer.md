@@ -23,7 +23,7 @@ author: goodGid
 
 ![](/assets/img/pension/Pension-Transfer_2.png)
 
-세제적격 연금끼리만 이전이 가능하다.
+* 세제혜택을 받는 세제적격 연금끼리만 이전이 가능하다.
 
 > Example
  
