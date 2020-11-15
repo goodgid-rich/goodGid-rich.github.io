@@ -8,7 +8,7 @@ author: goodGid
 {:toc}
 
 
-## [2.20 부동산 대책]((https://www.youtube.com/watch?v=GLoUQewgK7Y&t=1s))
+## [2.20 부동산 대책](https://www.youtube.com/watch?v=GLoUQewgK7Y&t=1s)
 
 ### LTV 조정
 
