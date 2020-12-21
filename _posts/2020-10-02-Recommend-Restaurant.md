@@ -12,8 +12,7 @@ author: goodGid
 * [엘리스리틀이태리공덕](https://search.naver.com/search.naver?sm=tab_sug.search&where=nexearch&query=%EC%97%98%EB%A6%AC%EC%8A%A4%EB%A6%AC%ED%8B%80%EC%9D%B4%ED%83%9C%EB%A6%AC%EA%B3%B5%EB%8D%95&oquery=%EA%B3%B5%EB%8D%95+%EC%97%98%EB%A6%AC%EC%8A%A4%EB%A6%AC%ED%8B%80%EC%9D%B4%ED%83%9C%EB%A6%AC&tqi=U3jpjsp0Jywss5%2Bp0dCssssssbN-445213&acq=%EA%B3%B5%EB%8D%95+%EC%97%98%EB%A6%AC%EC%8A%A4%EB%A6%AC%ED%8B%80%EC%9D%B4%ED%83%9C%EB%A6%AC&acr=1&qdt=0)
   - 파스타
 
-
-
+---
 
 ## 신촌
 
@@ -39,11 +38,13 @@ author: goodGid
 
   - 커피샵
 
+---
 
 ## 신사
 
 * [영동 설렁탕](https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%98%81%EB%8F%99+%EC%84%A4%EB%A0%81%ED%83%95)
 
+---
 
 ## 강남
 
@@ -54,11 +55,22 @@ author: goodGid
 * [오아시스 : 브런치](https://map.naver.com/v5/entry/place/13117552?c=14141612.2143833,4512594.9239434,15,0,0,0,dh)
 
 
+---
+
+
 ## 용산 & 한남
 
 * [부첼리하우스 : 양식](https://m.place.naver.com/restaurant/783125368/home)
 
 * [효뜨 : 베트남음식](https://m.place.naver.com/restaurant/1813533684/home)
+
+---
+
+## 제주도
+
+* [제주 성산, 종달리 맛집 - 소금바치 순이네(돌문어볶음, 전복뚝배기)](https://m.blog.naver.com/yjseve/222180315834)
+
+* [제주 성산 맛집 - 성산카베츠(흑돼지돈까스, 김치카츠나베)](https://m.blog.naver.com/yjseve/222180323399)
 
 
 
