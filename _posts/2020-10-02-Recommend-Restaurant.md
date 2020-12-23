@@ -73,6 +73,31 @@ author: goodGid
 * [제주 성산 맛집 - 성산카베츠(흑돼지돈까스, 김치카츠나베)](https://m.blog.naver.com/yjseve/222180323399)
 
 
+---
+
+## 명동
+
+* [르빵 명동성당점](https://m.place.naver.com/restaurant/37520301/home?entry=pll)
+
+  을지로 3가역 / 12번 출구
+
+* [명동돈가스](https://m.place.naver.com/restaurant/11679455/home?entry=pll)
+
+  을지로입구역 / 5번 출구
+
+* [쯔루하시 후게츠 명동점 : 오코노미야끼와 야끼소바가 맛있는 명동 맛집](https://m.place.naver.com/restaurant/21037913/home?entry=pll)
+
+  명동역 / 6번 출구
+
+* [더 스팟 패뷸러스 : 카페 & 브런치](https://m.place.naver.com/restaurant/181633326/home?entry=pll)
+  
+  명동역 / 5번 출구
+
+* [맷차 : 카페, 디저트](https://m.place.naver.com/restaurant/1507052049/home)
+
+  을지로입구역 / 5번 출구
+
+
 
 ## 지인
 
