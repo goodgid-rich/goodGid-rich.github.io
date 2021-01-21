@@ -9,9 +9,11 @@ author: goodGid
 
 ## 공기 청정기
 
-* 제품 : 제스파 아이코어 무선 눈 마사지기 (ZP2370B)
+* 제품 : [제스파 아이코어 무선 눈 마사지기 (ZP2370B)](https://search.shopping.naver.com/search/all?query=ZP2370B&bt=0&frm=NVSCPRO)
 
   사용 : 201206(토) 사용 시작
+
+  가격 : 약 80,000 원
 
 
 
@@ -19,9 +21,9 @@ author: goodGid
 
 ## 가이드 문서
 
-![](/assets/img/etc/1.jpg)
+![](/assets/img/etc/Zespa-Eye-Massager_1.jpg)
 
-![](/assets/img/etc/2.jpg)
+![](/assets/img/etc/Zespa-Eye-Massager_2.jpg)
 
 
 
