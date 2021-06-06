@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " 자동차세 알아보기 "
-categories: Car
+categories: 자동차
 author: goodGid
 ---
 * content

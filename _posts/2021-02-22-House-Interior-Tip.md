@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " 집 인테리어 시 꿀팁 : 시공 순서 등등 "
-categories: House
+categories: 부동산
 author: goodGid
 ---
 * content

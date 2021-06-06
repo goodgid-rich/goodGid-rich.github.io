@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " 주식 : 물적 분할(Split-Off) vs 인적 분할(Spin-Off) "
-categories: Stock
+categories: 주식
 author: goodGid
 ---
 * content

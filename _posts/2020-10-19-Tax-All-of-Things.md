@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " 우리가 알아야 할 세금 (ft.2023 주식 양도세) "
-categories: Tax
+categories: 세금
 author: goodGid
 ---
 * content

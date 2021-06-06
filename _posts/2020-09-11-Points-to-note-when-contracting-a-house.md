@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " 주택 계약시주의 할 점 "
-categories: House
+categories: 부동산
 author: goodGid
 ---
 * content

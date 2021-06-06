@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " 대출이 있는데 퇴사하였을 경우 대출 연장하는 방법 "
-categories: Loan
+categories: 대출
 author: goodGid
 ---
 * content

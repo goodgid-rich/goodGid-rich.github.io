@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " 부동산 기초 개념 "
-categories: House
+categories: 부동산
 author: goodGid
 ---
 * content

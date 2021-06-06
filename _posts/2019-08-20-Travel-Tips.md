@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " 여행갈 때 참고할 Tip "
-categories: Travel
+categories: 여행
 author: goodGid
 ---
 * content

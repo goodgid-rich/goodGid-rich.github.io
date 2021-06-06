@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " 자동차 보험 알아보기 "
-categories: Car
+categories: 자동차
 author: goodGid
 ---
 * content

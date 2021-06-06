@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " 퇴직연금 : IRP 알아보기 "
-categories: Pension
+categories: 연금
 author: goodGid
 ---
 * content

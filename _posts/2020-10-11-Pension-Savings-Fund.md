@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " 연금 저축 : 연금저축펀드 "
-categories: Pension
+categories: 연금
 author: goodGid
 ---
 * content

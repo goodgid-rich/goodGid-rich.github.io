@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " 병원의 의사가 전문의인지 아닌지 구별하는 방법 (올바른 의사 선택!)"
-categories: Medical
+categories: 의료
 author: goodGid
 ---
 * content

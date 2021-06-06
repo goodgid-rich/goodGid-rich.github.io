@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " 맛집 정리 "
-categories: Restaurant
+categories: 음식점
 author: goodGid
 ---
 * content

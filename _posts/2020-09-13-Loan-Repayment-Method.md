@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " 대출 상환 방식의 3가지 : 만기 일시, 원리금, 원금 "
-categories: Loan
+categories: 대출
 author: goodGid
 ---
 * content

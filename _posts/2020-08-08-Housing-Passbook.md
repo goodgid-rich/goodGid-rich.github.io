@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " 청약 통장 알아보기 "
-categories: House
+categories: 부동산
 author: goodGid
 ---
 * content

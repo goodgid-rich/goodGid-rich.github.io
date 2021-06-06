@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " 부동산 공동 중개를 희망할 때 주의할 점 알아보기 "
-categories: House
+categories: 부동산
 author: goodGid
 ---
 * content
