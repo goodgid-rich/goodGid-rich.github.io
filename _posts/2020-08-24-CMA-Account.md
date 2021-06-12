@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " CMA 계좌 알아보기 "
-categories: Rich
+categories: 주식
 author: goodGid
 ---
 * content

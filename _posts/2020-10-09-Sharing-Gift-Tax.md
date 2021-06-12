@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " 증여를 나눠서 하자 : 쪼개기 증여 "
-categories: Rich
+categories: 세금
 author: goodGid
 ---
 * content

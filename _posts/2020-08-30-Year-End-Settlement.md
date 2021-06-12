@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " 연말 정산 알아보기 "
-categories: Rich
+categories: 연말정산
 author: goodGid
 ---
 * content

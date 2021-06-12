@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " 결혼할 때 증여세 줄이는 방법 "
-categories: Rich
+categories: 세금
 author: goodGid
 ---
 * content
