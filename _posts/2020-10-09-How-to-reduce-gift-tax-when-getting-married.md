@@ -126,7 +126,7 @@ author: goodGid
 
 
 
-![](/assets/img/rich/How-to-reduce-gift-tax-when-getting-married_1.png)
+![](/assets/img/tax/How-to-reduce-gift-tax-when-getting-married_1.png)
 
 
 * 결론은 다음과 같은 선택을 하게 된다.
