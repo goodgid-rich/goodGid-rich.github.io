@@ -11,67 +11,38 @@ type: page
 
 ## Who am i
 
-* LINE Pay <i class="fa fa-credit-card"></i>에서 BackEnd 개발을 하고 있습니다.
+* <img src="/assets/img/logo/kakaobank-logo.png" style="max-width: 3%; vertical-align: text-bottom;"> 카카오뱅크에서 BackEnd 개발을 하고 있습니다.
 
-  ( Jan 2019 ~ Present )
+  ( 2021.06.07 ~ )
 
-* <i class="fa fa-edit"></i>: 기록 하는 걸 좋아합니다.
+* <img src="/assets/img/logo/line-logo.png" style="max-width: 3%; vertical-align: text-bottom;"> LINE Pay에서 BackEnd 개발을 했습니다.
 
-* <i class="fa fa-book"></i>: 꾸준히 공부하는 성실형 개발자 입니다.
+  ( 2019.01.02 ~ 2021.06.04 )
 
-* <i class="fa fa-desktop"></i>: Blog에 보고 듣고 느끼고 배운걸 남기는 재미로 살아갑니다.
+* <i class="fa fa-edit"></i>: 기록하는 걸 좋아합니다.
 
+* <i class="fa fa-book"></i>: 꾸준히 공부하는 성실형 개발자입니다.
+
+* <i class="fa fa-desktop"></i>: Blog에 보고 듣고 느끼고 배운 걸 남기는 재미로 살아갑니다.
 
 
 ---
 
 ## Contact
 
-* Dev Blog : <a href="https://goodgid.github.io/" title="DevBlog">
-Dev Blog 
-<i class="fa fa-pencil-square-o" aria-hidden="true"></i>
-</a>
+* <i class="fa fa-pencil-square-o" aria-hidden="true" style="font-size: x-large;"></i>: [Dev Blog](https://goodgid.github.io)
 
-* GitHub : 
-<a href="https://github.com/{{site.github_username}}" title="GitHub">
-goodGid
-<i class="fa fa-github" aria-hidden="true"></i>
-</a>
+* <i class="fa fa-github" aria-hidden="true" style="font-size: x-large;"></i>: [{{site.github_username}}](https://github.com/{{site.github_username}})
 
-* Linkedin : 
-<a href="https://www.linkedin.com/in/{{site.linkedIn_username}}" title="LinkedIn">
-<i class="fa fa-linkedin" aria-hidden="true"></i>
-</a>
+* <i class="fa fa-linkedin" aria-hidden="true" style="font-size: x-large;"></i>: [Kiyong Shin](https://www.linkedin.com/in/{{site.linkedIn_username}})
 
-* Facebook : 
-<a href="https://www.facebook.com/{{site.facebook_username}}" title="Facebook">
-<i class="fa fa-facebook-official" aria-hidden="true" font-size="100px"></i>
-</a>
+* <i class="fa fa-facebook-official" aria-hidden="true" style="font-size: x-large;"></i>: [{{site.facebook_username}}](https://www.facebook.com/{{site.facebook_username}})
 
-* Instagram :
-<a href="https://www.instagram.com/{{site.insta_username}}" title="Instagram">
-<i class="fa fa-instagram" aria-hidden="true"></i>
-</a>
+* <i class="fa fa-instagram" aria-hidden="true" style="font-size: x-large;"></i>: [{{site.insta_username}}](https://www.instagram.com/{{site.insta_username}})
 
-* BOJ :
-<a href="https://www.acmicpc.net/user/sgy8971" title="BOJ">
-<i class="fa fa-code" aria-hidden="true"></i>
-</a>
+* <i class="fa fa-commenting" aria-hidden="true" style="font-size: x-large;"></i>: [Kakao Open Chat](https://open.kakao.com/o/sD37fM3)
 
-* Kakao :
-<a href="https://open.kakao.com/o/sD37fM3" title="Kako">
-Open Chat
-<i class="fa fa-commenting" aria-hidden="true"></i>
-</a>
-
-* Taling :
-<a href="{{site.url}}/Taling" title="Taling">
-Offline 연락
-<i class="fa fa-id-card-o" aria-hidden="true"></i>
-</a>
-
-* <i class="fa fa-envelope-o" aria-hidden="true"></i>: hello.goodgid@gmail.com
-
+* <i class="fa fa-envelope-o" aria-hidden="true" style="font-size: x-large;"></i>: hello.goodgid@gmail.com
 
 --- 
 
