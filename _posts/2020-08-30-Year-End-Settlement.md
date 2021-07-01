@@ -9,6 +9,8 @@ author: goodGid
 
 ## 연말정산 흐름도
 
+<img src="/assets/img/rich/Year-End-Settlement_3.png" alt="" style="max-width: 30%;">
+
 ```
 총급여
 - 근로소득공제
