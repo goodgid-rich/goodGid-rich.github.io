@@ -9,9 +9,9 @@ author: goodGid
 
 ## 특별공급 vs 일반공급
 
-![](/assets/img/house/Housing-Special-and-General-supply_1.png)
+![](/assets/img/house/House-Housing-Special-and-General-supply_1.png)
 
-![](/assets/img/house/Housing-Special-and-General-supply_2.png)
+![](/assets/img/house/House-Housing-Special-and-General-supply_2.png)
 
 * 국민주택에서 일반공급은 통장에 돈이 얼마나 있느냐로 따지는 구간이다.
 
