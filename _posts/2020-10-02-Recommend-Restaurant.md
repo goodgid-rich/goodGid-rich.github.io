@@ -72,6 +72,8 @@ author: goodGid
 
 * [제주 성산 맛집 - 성산카베츠(흑돼지돈까스, 김치카츠나베)](https://m.blog.naver.com/yjseve/222180323399)
 
+* [제주도 엘픽 스테이크](https://bit.ly/3CqYz4k)
+
 
 ---
 
