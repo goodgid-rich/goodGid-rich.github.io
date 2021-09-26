@@ -15,9 +15,13 @@ author: goodGid
 
   요즘은 거의 다 조정 지역이므로 B 주택을 언제 취득했느냐가 중요하다.
 
+
+
 > 케이스별 매도 기간
 
 ![](/assets/img/house/House-Temporary-1-family-2-houses_3.png)
+
+![](/assets/img/house/House-Temporary-1-family-2-houses_4.png)
 
 * 조정 -> 조정일 경우에만 다르고
 
@@ -60,6 +64,73 @@ author: goodGid
 2019년 12월 16일에 계약을 했다면 2년 내 매도 조건을 따른다.
 ```
 
+---
+
+### 2020년 6.17 대책
+
+![](/assets/img/house/House-Temporary-1-family-2-houses_9.png)
+
+* 전 규제 지역(투기, 투기과열, 조정대상) 내 주택 구매를 위해
+
+  주택담보대출을 받는 경우
+
+  주택 가격과 관계없이 
+
+  6개월 내 전입 의무를 지게 된다.
+
+* 위 대책으로 인해
+
+  일시적 1가구 2주택 요건은
+
+  1년 이내 전입이지만 대출 규제 때문에 6개월 이내 전입을 해야 한다.
+
+---
+
+### Example
+
+**Case 1**
+
+```
+주택 A (기존 주택) 2010년 1월 취득
+주택 B (신규 주택) 2015년 5월 취득
+주택 A (기존 주택) 2085년 4월 처분
+
+-> A 주택 취득 후 1년 이후 B 주택 취득 조건 충족
+-> A 주택 2년 이상 보유 조건 충족
+-> B 주택 취득 후 3년 이내 매도로 비과세 혜택
+// 주택 B는 조정 대상 지역이 아님
+```
+
+---
+
+**Case 2**
+
+![](/assets/img/house/House-Temporary-1-family-2-houses_5.png)
+
+![](/assets/img/house/House-Temporary-1-family-2-houses_6.png)
+
+![](/assets/img/house/House-Temporary-1-family-2-houses_7.png)
+
+---
+
+**Case 3**
+
+![](/assets/img/house/House-Temporary-1-family-2-houses_8.png)
+
+```
+신규 주택 매수 시점 : 비규제 지역
+신규 주택 매수 후 : 규제 지역으로 변경
+```
+* 이런 경우에도 매수 시점을 기준으로 비과세 혜택 기준을 따른다.
+
+* 그러므로 위 예시에서
+
+  매수 후 신규 주택이 규제 지역으로 지정되었어도
+
+  매수 시점에 비규제 지역이었으므로 3년 이내 기존 주택을 매도하면
+
+  비과세 혜택을 받을 수 있다.
+
 
 ---
 
@@ -82,3 +153,5 @@ author: goodGid
 ## Reference
 
 * [대박 절세, 일시적 1가구2주택 제도 완벽 정리 (feat. 원종훈 세무사)](https://www.youtube.com/watch?v=ePCVLTxEn34)
+
+* [[3강] 일시적 1가구 2주택 총정리 (일시적 2주택, 일시적 1세대 2주택 요건 계산 양도세)](https://www.youtube.com/watch?v=eknffZ-JVxc)
