@@ -137,6 +137,13 @@ Case 1
 
 ---
 
+## Summary
+
+![](/assets/img/house/House-Real-Estate-Regulated-Area-LTV-Ratio_1.png)
+
+
+---
+
 ## Reference
 
 * [금리부터 한도까지, 주택담보대출 한 번에 알려드립니다. 아파트매매가이드 '레오' 김은진 대표 Ep.2](https://www.youtube.com/watch?v=8FtJeKOXwBk)
