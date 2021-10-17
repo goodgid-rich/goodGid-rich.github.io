@@ -44,4 +44,4 @@ author: goodGid
 
 ## Reference
 
-* [하마터면 부동산 상식도 모르고 집 살 뻔했다](https://book.naver.com/bookdb/book_detail.nhn?bid=15766999)
+* [하마터면 부동산 상식도 모르고 집 살 뻔했다 (p49)](https://book.naver.com/bookdb/book_detail.nhn?bid=15766999)
