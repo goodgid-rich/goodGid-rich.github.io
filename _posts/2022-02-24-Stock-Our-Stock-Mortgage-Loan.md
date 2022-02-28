@@ -66,6 +66,8 @@ author: goodGid
 
   => **대출 가능 금액 * 160% = 담보가액**
 
+  => **160% = 담보가액 / 대출 가능 금액**
+
 * 만약 **보호예수가 풀리기 전**이라면 한도는 5,000만 원이므로 
 
   아래 공식은 보호예수가 풀린 케이스에서만 해당한다.
@@ -106,6 +108,8 @@ author: goodGid
 
   = **한도 * 대출유지 담보비율 / 담보로 맡긴 주식 수 * 할인율**
 
+  참고 : 대출유지 담보비율는 **110%**이다.
+
 ---
 
 > Example
@@ -129,6 +133,82 @@ author: goodGid
 1. 돈을 더 넣는다.
 
 2. 담보로 잡히지 않은 주식을 담보에 추가한다.
+
+---
+
+### 실제 시뮬레이션
+
+* 실제로 시뮬레이션을 돌려 한도를 구해보자.
+
+---
+
+#### 한극증권금융 앱
+
+* 한국증권금융 앱에 로그인하여 담보로 받을 주식의 종가를 확인한다.
+
+  ![](/assets/img/stock/Stock-Our-Stock-Mortgage-Loan_1.png)
+
+* 그리고 담보로 잡을 주식을 넣는다.
+
+  ![](/assets/img/stock/Stock-Our-Stock-Mortgage-Loan_2.png)
+
+* 그렇게 시뮬레이션을 돌리면 
+
+  **47,750,000원** 한도가 나오는 것을 확인할 수 있다.
+
+  ![](/assets/img/stock/Stock-Our-Stock-Mortgage-Loan_3.png)
+
+---
+
+#### 이론 기반 시뮬레이션
+
+* 이론을 기반으로 시뮬레이션을 돌려서 
+
+  실제 한국증권금융 앱의 한도와 같은지 비교해보자.
+
+  ![](/assets/img/stock/Stock-Our-Stock-Mortgage-Loan_4.png)
+
+  ![](/assets/img/stock/Stock-Our-Stock-Mortgage-Loan_5.png)
+
+----
+
+#### 결과
+
+* 한국증권금융 앱에서 제시한 한도와 
+
+  이론을 기반으로 시뮬레이션 돌린 한도가 같음을 볼 수 있다.
+
+---
+
+#### 추가로
+
+* 한 번 더 시뮬레이션을 돌려보자.
+
+* 종가는 다음과 같다.
+
+  ![](/assets/img/stock/Stock-Our-Stock-Mortgage-Loan_1.png)
+
+* 담보로 잡을 주식은 다음과 같다.
+
+  ![](/assets/img/stock/Stock-Our-Stock-Mortgage-Loan_6.png)
+
+* 한도를 확인해보면
+
+  정확히는 5,000만 원보다 더 받을 수 있지만
+
+  보호예수가 풀리지 않은 주식에 대해서는 
+  
+  최대 한도는 5,000만 원이므로 다음과 같은 한도가 나온다.
+
+  ![](/assets/img/stock/Stock-Our-Stock-Mortgage-Loan_7.png)
+
+* 실제 한도를 구해보면 50,137,500원이 나온다.
+
+  ![](/assets/img/stock/Stock-Our-Stock-Mortgage-Loan_8.png)
+
+  ![](/assets/img/stock/Stock-Our-Stock-Mortgage-Loan_9.png)
+
+
 
 ---
 
