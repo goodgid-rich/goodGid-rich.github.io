@@ -200,13 +200,6 @@ author: goodGid
 
 ---
 
-### Reference
-
-* [인생을 바꾸는 순간 (부동산비법서2)](https://smartstore.naver.com/jaepa/products/8967589610)
-
-
----
-
 ## 210717 
 
 * [[재개발/재건축] 대지지분 이해하기](https://www.youtube.com/watch?v=EgmdeB0Po8Y)
